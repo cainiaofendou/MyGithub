@@ -10,6 +10,7 @@
     <style name="SplasTheme" parent="AppTheme">
         <item name="android:windowBackground">@drawable/start_window</item>
         <item name="android:windowFullscreen">true</item>
+
         <item name="android:windowIsTranslucent">true</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
